@@ -1,0 +1,41 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:ivory;
+}
+
+div{
+    text-align: center;
+}
+
+/* main-footer */
+footer{
+    position: absolute;
+    width: 100%;
+    height: 2.5rem;  
+}
+
+/* index-about-footer */
+.footer2{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+}
+
+/* h-tag-color */
+h1{
+    color:maroon;
+}
+
+h2{
+    color: mediumorchid;
+}
+
+h3{
+    color: mediumseagreen;
+}
+
+/* li-position */
+li{
+    list-style-position: inside;
+}
